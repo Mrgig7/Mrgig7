@@ -15,16 +15,11 @@ Hi there 👋<br>I'm currently working on:<br><br>🚀 Enhancing my skills in Ja
   ## Leetcode
   <div align="center">
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/YourUsername?theme=auto&font=baloo&extension=null)
+  ![LeetCode Stats](https://leetcode.card.workers.dev/Mrgig7?theme=auto&font=baloo&extension=null)
 
   </div>
+  
 
-  ## Codeforces
-  <div align="center">
-
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=YourUsername)
-
-  </div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mrgig7&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
