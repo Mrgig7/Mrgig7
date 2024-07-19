@@ -15,7 +15,7 @@ Hi there 👋<br>I'm currently working on:<br><br>🚀 Enhancing my skills in Ja
   ## Leetcode
   <div align="center">
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/Mrgig7?theme=auto&font=baloo&extension=null)
+![](https://leetcard.Mrgig7.cool/Nitesh?ext=activity)
 
   </div>
   
