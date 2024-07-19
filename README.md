@@ -12,17 +12,19 @@ Hi there 👋<br>I'm currently working on:<br><br>🚀 Enhancing my skills in Ja
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mrgig7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrgig7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## LeetCode
-
-<details>
-  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  ## Leetcode
   <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=tokyo-night)
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/YourUsername?theme=auto&font=baloo&extension=null)
+
   </div>
-</details>
+
+  ## Codeforces
+  <div align="center">
+
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=YourUsername)
+
+  </div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mrgig7&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
