@@ -15,7 +15,7 @@ Hi there 👋<br>I'm currently working on:<br><br>🚀 Enhancing my skills in Ja
   ## Leetcode
   <div align="center">
 
-![](https://leetcard.jacoblin.cool/Nitesh?ext=activity)
+![](https://leetcard.Mrgig7.cool/Nitesh?ext=activity)
 
   </div>
   
