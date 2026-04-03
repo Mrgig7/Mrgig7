@@ -14,8 +14,8 @@
 ║   ██║ ╚████║██║   ██║   ███████╗███████║██║  ██║    ╚█████╔╝                         ║
 ║   ╚═╝  ╚═══╝╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝     ╚════╝                          ║
 ║                                                                                      ║
-║   > Software Engineer @ Microsoft  |  Full Stack Developer  |  Competitive Coder     ║
-║   > B.Tech CSE '26  |  LPU  |  GPA: 8.64                                            ║
+║   > Upcoming SWE @ Microsoft  |  Full Stack Developer  |  Competitive Coder          ║
+║   > Final Year B.Tech CSE '26  |  LPU  |  CGPA: 8.74                                ║
 ║   > 600+ LeetCode  |  Expert Codeforces (1628)  |  5★ CodeChef (2175)                ║
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
@@ -25,7 +25,7 @@
 
 <!-- MATRIX-STYLE TYPING EFFECT -->
 <a href="https://github.com/Mrgig7">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Software+Engineer+%40+Microsoft;%24+cat+skills.txt+%E2%86%92+Java+%7C+TypeScript+%7C+Python+%7C+Go;%24+uptime+%E2%86%92+600%2B+LeetCode+%7C+Expert+Codeforces+%7C+5%E2%98%85+CodeChef;%24+status+%E2%86%92+Final+Year+B.Tech+CSE+%7C+GPA+8.64;%24+ping+portfolio+%E2%86%92+Always+Building%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Upcoming+Software+Engineer+%40+Microsoft;%24+cat+skills.txt+%E2%86%92+Java+%7C+TypeScript+%7C+Python+%7C+Go;%24+uptime+%E2%86%92+600%2B+LeetCode+%7C+Expert+Codeforces+%7C+5%E2%98%85+CodeChef;%24+status+%E2%86%92+Final+Year+B.Tech+CSE+%7C+CGPA+8.74+%7C+Passing+Out+2026;%24+ping+portfolio+%E2%86%92+Always+Building%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -54,11 +54,12 @@ const nitesh = {
   education: {
     degree: "B.Tech CSE",
     university: "Lovely Professional University",
-    gpa: 8.64,
-    year: "Final Year — Graduating 2026"
+    cgpa: 8.74,
+    year: "Final Year — Passing Out 2026"
   },
   experience: [
-    "Software Engineer Intern @ Microsoft",
+    "Upcoming Software Engineer @ Microsoft",
+    "Ex-SWE Intern @ Microsoft (Summer 2025)",
     "Cloud Engineer @ Devco Services (GCP)",
     "Data Science Intern @ DevTown"
   ],
@@ -68,8 +69,9 @@ const nitesh = {
 };
 ```
 
-- 🏢 **SWE Intern @ Microsoft** — Built AI-powered ticket resolution with RAG & Azure OpenAI
-- 🎓 **Final Year B.Tech CSE** at **LPU** — GPA: **8.64**
+- 🏢 **Upcoming Software Engineer @ Microsoft** — Joining post-graduation 🚀
+- 💼 **Ex-SWE Intern @ Microsoft** — Built AI-powered ticket resolution with RAG & Azure OpenAI
+- 🎓 **Final Year B.Tech CSE** at **LPU** — CGPA: **8.74** | Passing Out 2026
 - 🏆 **600+ LeetCode** | **Expert Codeforces** (1628) | **5⭐ CodeChef** (2175)
 - ☁️ **SAP Certified Data Analyst** | **Google Cloud Associate** (in progress)
 - 📫 **[jnitesh1463@gmail.com](mailto:jnitesh1463@gmail.com)** | **+91 6364572323**
@@ -88,14 +90,14 @@ const nitesh = {
 <td>
 
 ### <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat&logo=microsoft&logoColor=white" height="20"/> &nbsp;Software Engineer Intern — Bengaluru
-`June 2025 – August 2025`
+`June 2025 – August 2025` · **Upcoming Full-Time SWE**
 
 ```diff
 + Spearheaded AI-powered ticket resolution using RAG pipeline
 + Integrated Azure AI Search, LangChain & Semantic Kernel
 + Designed pipeline to parse real ICM ticket data via Azure OpenAI
 + Collaborated on Azure DevOps & Microsoft Copilot Studio integrations
-+ Deep-dive sessions on cloud computing & serverless architectures
++ Cloud computing, Azure services & serverless architectures
 ```
 
 </td>
@@ -440,8 +442,8 @@ const nitesh = {
 │  🏛️  Lovely Professional University                        │
 │  📚  B.Tech in Computer Science & Engineering               │
 │  📍  Punjab, India                                          │
-│  📅  September 2022 — May 2026                              │
-│  📊  GPA: 8.64 / 10.0                                      │
+│  📅  September 2022 — Passing Out 2026                      │
+│  📊  CGPA: 8.74 / 10.0                                     │
 └─────────────────────────────────────────────────────────────┘
 ```
 
