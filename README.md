@@ -1,31 +1,49 @@
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   N I T E S H   J   —   T E R M I N A L              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<!-- ===== CYBER HEADER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:00d4ff,75:00ff41,100:0d1117&height=220&section=header&text=NITESH%20J&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Upcoming%20Software%20Engineer%20@%20Microsoft%20%7C%20Final%20Year%20'26&descSize=16&descAlignY=55&descColor=00ff41" width="100%"/>
+```
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║   ███╗   ██╗██╗████████╗███████╗███████╗██╗  ██╗         ██╗                         ║
+║   ████╗  ██║██║╚══██╔══╝██╔════╝██╔════╝██║  ██║         ██║                         ║
+║   ██╔██╗ ██║██║   ██║   █████╗  ███████╗███████║         ██║                         ║
+║   ██║╚██╗██║██║   ██║   ██╔══╝  ╚════██║██╔══██║    ██   ██║                         ║
+║   ██║ ╚████║██║   ██║   ███████╗███████║██║  ██║    ╚█████╔╝                         ║
+║   ╚═╝  ╚═══╝╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝     ╚════╝                          ║
+║                                                                                      ║
+║   > Upcoming SWE @ Microsoft  |  Full Stack Developer  |  Competitive Coder          ║
+║   > Final Year B.Tech CSE '26  |  LPU  |  CGPA: 8.74                                ║
+║   > 600+ LeetCode  |  Expert Codeforces (1628)  |  5★ CodeChef (2175)                ║
+║                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
 
-<!-- MATRIX TYPING -->
+<br/>
+
+<!-- MATRIX-STYLE TYPING EFFECT -->
 <a href="https://github.com/Mrgig7">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%E2%96%B6+Upcoming+SWE+%40+Microsoft+%E2%94%82+Ex-Intern+%E2%94%82+Full+Stack+Dev;%E2%96%B6+600%2B+LeetCode+%E2%94%82+Expert+Codeforces+%E2%94%82+5%E2%98%85+CodeChef;%E2%96%B6+B.Tech+CSE+%E2%94%82+CGPA+8.74+%E2%94%82+Passing+Out+2026;%E2%96%B6+Building+Distributed+Systems+%26+AI+Agents+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%E2%96%B6+Upcoming+SWE+%40+Microsoft+%E2%94%82+Ex-Intern+%E2%94%82+Full+Stack+Dev;%E2%96%B6+600%2B+LeetCode+%E2%94%82+Expert+Codeforces+%E2%94%82+5%E2%98%85+CodeChef;%E2%96%B6+B.Tech+CSE+%E2%94%82+CGPA+8.74+%E2%94%82+Passing+Out+2026;%E2%96%B6+Building+Distributed+Systems+%26+AI+Agents+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-niteshj14-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niteshj14)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-jnitesh1463-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnitesh1463@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Mrgig7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrgig7)&nbsp;
-![Views](https://komarev.com/ghpvc/?username=Mrgig7&label=Profile+Views&color=00ff41&style=for-the-badge)
+<!-- QUICK ACCESS BADGES -->
+[![LinkedIn](https://img.shields.io/badge/niteshj14-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/niteshj14)
+[![Gmail](https://img.shields.io/badge/jnitesh1463-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jnitesh1463@gmail.com)
+[![GitHub](https://img.shields.io/badge/Mrgig7-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mrgig7)
+![Views](https://komarev.com/ghpvc/?username=Mrgig7&label=Terminal+Visitors&color=00ff41&style=flat)
 
 </div>
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
-<div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; `$ cat about_nitesh.json`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; `> cat about_me.txt`
 
 <img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
 
@@ -61,14 +79,12 @@
 
 </div>
 
-</div>
-
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
 
-## 💼 `$ cat /var/log/experience.log`
+## 💼 `> cat work_experience.log`
 
 <div align="center">
 
@@ -76,7 +92,7 @@
 <tr>
 <td width="100%">
 
-### <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="28"/> &nbsp; Software Engineer Intern → **Upcoming Full-Time SWE**
+### <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="28"/> &nbsp; SWE Intern → **Upcoming Full-Time SWE**
 `📍 Bengaluru` · `📅 June 2025 – Aug 2025` · **🟢 Returning as Full-Time SWE**
 
 ```diff
@@ -125,9 +141,9 @@
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════ PROJECTS ═══════════════ -->
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 
-## 🚀 `$ ls -la ~/production_deployments/`
+## 🚀 `> ls ~/projects/`
 
 <div align="center">
 
@@ -211,9 +227,9 @@
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
-## 🛠️ `$ neofetch --tech-stack`
+## 🛠️ `> neofetch --tech-stack`
 
 <div align="center">
 
@@ -249,18 +265,18 @@
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
-## 📊 `$ git log --stat --graph`
+## 📊 `> git log --stat`
 
 <div align="center">
 
-<!-- STREAK STATS (working) -->
+<!-- STREAK STATS -->
 <img width="70%" src="https://streak-stats.demolab.com?user=Mrgig7&theme=dark&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=555555&background=0d1117&stroke=00ff4130" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS & TOP LANGS -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mrgig7&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrgig7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages"/>
 
@@ -274,22 +290,22 @@
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════ TROPHIES ═══════════════ -->
+<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
 
-## 🏆 `$ cat achievements.log`
+## 🏆 `> cat achievements.log`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mrgig7&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&cache_seconds=86400" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mrgig7&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%" alt="Trophies"/>
 
 </div>
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════ SNAKE ═══════════════ -->
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 
-## 🐍 `$ python3 snake.py --eat-contributions`
+## 🐍 `> python3 snake.py --eat-contributions`
 
 <div align="center">
   <picture>
@@ -302,9 +318,26 @@
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════ COMPETITIVE PROGRAMMING ═══════════════ -->
+<!-- ═══════════════════════ COMPETITIVE PROGRAMMING ═══════════════════════ -->
 
-## ⚔️ `$ ./competitive_arena --all-platforms`
+## ⚔️ `> ./competitive_arena --all-platforms`
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│                        ⚔️  COMPETITIVE PROGRAMMING ARENA  ⚔️                     │
+│                                                                                  │
+│  📊 LeetCode    →  600+ Solved  |  Rating: 1815  |  Top Percentile              │
+│  🏅 Codeforces  →  Expert       |  Max Rating: 1628  |  31 Problems             │
+│  ⭐ CodeChef    →  5-Star       |  Max Rating: 2175  |  Div 1                    │
+│  📈 GFG         →  604 Score    |  154 Problems  |  58/1705 Day Streak          │
+│  ✅ HackerRank  →  Certified    |  Python • Java • JavaScript • SQL             │
+│                                                                                  │
+└──────────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <div align="center">
 
@@ -318,8 +351,6 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Mrgig7?theme=dark&font=JetBrains+Mono&ext=activity)](https://leetcode.com/u/Mrgig7/)
 
-**600+ Problems** · **Rating: 1815** · **Top Percentile**
-
 </td>
 <td align="center" width="50%">
 
@@ -328,8 +359,6 @@
 <br/>
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Mr.Git&theme=github_dark)](https://codeforces.com/profile/Mr.Git)
-
-**Expert** · **Max Rating: 1628** · **31 Problems**
 
 </td>
 </tr>
@@ -341,8 +370,6 @@
 <br/>
 
 [![GFG Stats](https://gfgstatscard.vercel.app/nitem3l7)](https://www.geeksforgeeks.org/user/nitem3l7/)
-
-**604 Score** · **154 Problems** · **58 Day Streak**
 
 </td>
 <td align="center" width="50%">
@@ -388,9 +415,9 @@
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════ CERTIFICATIONS ═══════════════ -->
+<!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
 
-## 📜 `$ certbot --list-certs`
+## 📜 `> certbot --list-certs`
 
 <div align="center">
 
@@ -409,28 +436,30 @@
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════ EDUCATION ═══════════════ -->
+<!-- ═══════════════════════ EDUCATION ═══════════════════════ -->
 
-## 🎓 `$ cat /etc/education.conf`
+## 🎓 `> cat /etc/education.conf`
 
 <div align="center">
 
-| | |
-|:---|:---|
-| 🏛️ **University** | Lovely Professional University |
-| 📚 **Degree** | B.Tech in Computer Science & Engineering |
-| 📍 **Location** | Punjab, India |
-| 📅 **Duration** | September 2022 — Passing Out 2026 |
-| 📊 **CGPA** | **8.74** / 10.0 |
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🏛️  Lovely Professional University                        │
+│  📚  B.Tech in Computer Science & Engineering               │
+│  📍  Punjab, India                                          │
+│  📅  September 2022 — Passing Out 2026                      │
+│  📊  CGPA: 8.74 / 10.0                                     │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════ CONNECT ═══════════════ -->
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
-## 🌐 `$ cat contacts.conf`
+## 🌐 `> cat contacts.conf`
 
 <div align="center">
 
@@ -448,17 +477,17 @@
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════ QUOTE ═══════════════ -->
+<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
 
 <div align="center">
 
-### ✍️ `$ fortune | cowsay`
+### ✍️ `> fortune | cowsay`
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
+<!-- ═══════════════════════ TERMINAL FOOTER ═══════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -470,22 +499,35 @@
 
 <br/><br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niteshj14)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnitesh1463@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrgig7)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mrgig7/)&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mr.Git)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mrgig7&label=Profile%20Views&color=00ff41&style=for-the-badge)
+
+<br/>
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    $ ssh nitesh@github.com                                   ║
-║    > Connection established.                                 ║
-║    > Welcome to Nitesh J's digital universe.                 ║
-║    > Session uptime: 2225+ contributions and counting...     ║
-║    > Status: Always building. Always shipping. 🚀            ║
-║    >                                                         ║
-║    $ exit                                                    ║
-║    > Goodbye! May your code compile on the first try. ✨     ║
-║    > Connection closed.                                      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║    $ ssh nitesh@github.com                                                   ║
+║    > Connection established.                                                 ║
+║    > Welcome to Nitesh J's digital universe.                                 ║
+║    > Type 'help' for available commands.                                     ║
+║    > Session uptime: 2225+ contributions and counting...                     ║
+║    > Status: Always building. Always shipping. 🚀                            ║
+║    >                                                                         ║
+║    $ exit                                                                    ║
+║    > Goodbye! May your code compile on the first try. ✨                     ║
+║    > Connection closed.                                                      ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:00d4ff,75:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:003300,100:0d1117&height=2&section=footer" width="100%"/>
