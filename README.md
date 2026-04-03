@@ -1,36 +1,248 @@
-# 💫 About Me:
-Hi there 👋<br>I'm currently working on:<br><br>🚀 Enhancing my skills in Java and Full Stack Development.<br>💻 Developing various projects related to web development and programming.<br><br>I'm looking to collaborate on:<br><br>🌟 Open-source projects involving Java, web development, and full stack applications.<br>🧩 Innovative and challenging programming projects.<br><br>I'm looking for help with:<br><br>🧠 Advanced Java concepts and best practices.<br>🛠 Implementing efficient and scalable web applications.<br>I'm currently learning:<br><br>📚 Java programming in depth.<br>🌐 Full Stack Development, including front-end and back-end technologies.<br><br>Ask me about:<br><br>💡 Programming tips and resources.<br>🔧 My experiences and projects in web development.<br><br>Fun fact:<br><br>🎓 I’m a 3rd year B.Tech CSE student at Lovely Professional University with a minor in Full Stack Development. <br>      I enjoy experimenting with new technologies and enhancing my coding skills.
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                        🌊 ANIMATED WAVE HEADER                        -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,50:3F5EFB,100:a9fef7&height=220&section=header&text=Nitesh%20J&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Java%20Enthusiast%20%7C%20Competitive%20Programmer&descSize=16&descAlignY=55&descColor=FFFFFF" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niteshj14) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NiteshJ83599181) 
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                         ⌨️ TYPING SVG ANIMATION                       -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mrgig7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mrgig7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrgig7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <a href="https://github.com/Mrgig7">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FC466B&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Building+the+Web;%E2%98%95+Java+%26+JavaScript+Enthusiast;%F0%9F%8E%93+B.Tech+CSE+%40+Lovely+Professional+University;%F0%9F%8F%86+Competitive+Programmer+on+5+Platforms;%F0%9F%8C%9F+Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  </a>
+</div>
 
-  ## Leetcode
-  <div align="center">
+<br/>
 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Mrgig7?theme=dark&font=Asap%20Condensed&ext=activity)
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                           👤 ABOUT ME                                  -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
-  </div>
-  
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; About Me
 
+<img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340px"/>
+
+- 🎓 **3rd Year B.Tech CSE** student at **Lovely Professional University**
+- 🎯 Minor in **Full Stack Development**
+- 🔭 Currently building **Full Stack Web Applications**
+- 🌱 Learning **Advanced Java**, **System Design** & **Cloud Tech**
+- 🏆 Active competitive programmer on **5+ platforms**
+- 💡 Open Source Contributor & Tech Explorer
+- 💬 Ask me about **Java, React, Node.js, DSA**
+- 📫 Reach me at **[jnitesh1463@gmail.com](mailto:jnitesh1463@gmail.com)**
+- ⚡ Fun fact: **I debug faster with music on 🎵**
+
+<br clear="both"/>
+
+<!-- ANIMATED RAINBOW DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                        🌐 CONNECT WITH ME                              -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px">&nbsp; Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niteshj14)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NiteshJ83599181)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnitesh1463@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mrgig7/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mr.Git)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nitem3l7/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mrgig7)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/MrGit7)
+
+</div>
+
+<!-- ANIMATED RAINBOW DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                          🛠️ TECH STACK                                 -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Languages & Core
+<img src="https://skillicons.dev/icons?i=java,js,ts,cpp,python,html,css&theme=dark" alt="Languages"/>
+
+### ⚙️ Frameworks & Runtime
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs&theme=dark" alt="Frameworks"/>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases"/>
+
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="Tools"/>
+
+### 🤖 AI, ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### 🎨 Design & Media
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+
+</div>
+
+<!-- ANIMATED RAINBOW DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                         📊 GITHUB STATS                               -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mrgig7&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Mrgig7&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrgig7&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrgig7&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&area_color=fe428e&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
+
+<!-- ANIMATED RAINBOW DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                        🐍 CONTRIBUTION SNAKE                          -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mrgig7/Mrgig7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mrgig7/Mrgig7/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Mrgig7/Mrgig7/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<!-- ANIMATED RAINBOW DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                         🏆 GITHUB TROPHIES                            -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mrgig7&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrgig7&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies"/>
+</div>
+
+<!-- ANIMATED RAINBOW DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                    💡 COMPETITIVE PROGRAMMING                          -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## 💡 Competitive Programming
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" height="22"/> LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Mrgig7?theme=dark&font=Fira+Code&ext=activity)](https://leetcode.com/u/Mrgig7/)
+
+</td>
+<td align="center" width="50%">
+
+### <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" height="22"/> Codeforces
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Mr.Git&theme=github_dark)](https://codeforces.com/profile/Mr.Git)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### <img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" height="22"/> GeeksForGeeks
+
+[![GFG Stats](https://gfgstatscard.vercel.app/nitem3l7)](https://www.geeksforgeeks.org/user/nitem3l7/)
+
+</td>
+<td align="center" width="50%">
+
+### <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" height="22"/> CodeChef
+
+[![CodeChef Stats](https://codechef-readme-stats.onrender.com/mrgig7?v=1)](https://www.codechef.com/users/mrgig7)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+### <img src="https://img.shields.io/badge/-HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white" height="22"/> HackerRank
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-MrGit7-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2d2d2d)](https://www.hackerrank.com/MrGit7)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- ANIMATED RAINBOW DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                       ✍️ DEV QUOTE & TOP REPOS                        -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mrgig7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Mrgig7&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                         VISITOR COUNTER & FOOTER                       -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mrgig7&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=Mrgig7&label=Profile%20Views&color=fe428e&style=for-the-badge" alt="Profile Views"/>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-FC466B?style=for-the-badge&logo=github&logoColor=white" alt="Thanks"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,50:3F5EFB,100:a9fef7&height=120&section=footer" width="100%"/>
